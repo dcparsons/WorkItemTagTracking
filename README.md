@@ -1,2 +1,0 @@
-# WorkItemTagTracking
-TFS Tag Tracking
